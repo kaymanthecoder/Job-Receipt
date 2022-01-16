@@ -1,0 +1,51 @@
+You have completed modifying the project
+Here are the NEW details about the project!
+ 
+Project number: 1234-5678-9101
+Project name: Let's build a house
+Type of building: House
+Address: 1800 Conway Vickers RD 
+	      Amrose 
+	      GA 31512 
+	      United States
+EMF number: 0.5 mG
+Fee charged: $1000000.0
+Amount paid: $500000.0
+Deadline: 22 February 2021
+ 
+
+Name: Steven Universe
+Telephone number: +1 343-553-3323
+Email: itsmeSteven@gmail.com
+Address: 4498 Conway Vickers RD 
+	      Amrose 
+	      GA 31512 
+	      United States
+ 
+
+Name: Bob the Builder
+Telephone number: +1 464-266-9555
+Email: icanfixanything@gmail.com
+Address: 270 Silver brook Trail 
+	      Amrose 
+	      GA 31512 
+	      United States
+ 
+
+Name: Montgomery Burns
+Telephone number: +1 555-444-1389
+Email: richestmaninSpringfield@gmail.com
+Address: 329 Saint Peterson Ave 
+	      Douglas 
+	      GA 31533 
+	      United States
+ 
+
+Here is the client's invoice 
+Name: Montgomery Burns 
+Number: +1 555-444-1389 
+Total amount: $1000000.0 
+Total amount paid: -$500000.0 
+Amount that still needs to be paid: $500000.0 
+This project is FINALISED! 
+Completed at: 22/02/2021 11:06:38
